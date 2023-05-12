@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lppm.medistra.ac.id/stats/-/slot-thailand/sitemap.xml
